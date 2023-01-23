@@ -1,4 +1,4 @@
-# Linco: GPT Bot
+# Dodo: GPT Bot
 
 **Description**: A Discord bot that uses `davinci` model of `OpenAi` to ask all your questions.
 
